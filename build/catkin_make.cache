@@ -1,0 +1,2 @@
+AriaCoda/test_p3at:joy_stick:joystick_drivers/joy:joystick_drivers/joystick_drivers:joystick_drivers/spacenav_node:p3at_controller:rosaria:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/pi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pi/catkin_ws/install -G Unix Makefiles

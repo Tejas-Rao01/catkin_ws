@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/install
+
+Name: p3at_controller
+Description: Description of p3at_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
