@@ -19,9 +19,9 @@ def callback(data):
     print(data)
     mapping = {'up':1, 'down':-1, 'left':-1}
     
-    twist.linear.x = 0.1*data.axes[1]
+    twist.linear.x = 0.2*data.axes[1]
     twist.linear.y = 0.01*data.axes[4]
-    twist.angular.z = 0.1*data.axes[0]
+    twist.angular.z = 0.2*data.axes[0]
     
     print(twist)
     
